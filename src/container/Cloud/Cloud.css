@@ -1,0 +1,32 @@
+
+  
+  .cloud-container h2 {
+    /* Example: Additional styling for heading */
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  
+  .cloud-container h3 {
+    /* Example: Additional styling for subheading */
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  
+  .cloud-container ol,
+  .cloud-container ul {
+    /* Example: Additional styling for lists */
+    margin-left: 20px;
+  }
+  
+  .cloud-container li {
+    /* Example: Additional styling for list items */
+    margin-bottom: 10px;
+    color: aliceblue;
+  }
+  
+  .cloud-container p {
+    /* Example: Additional styling for paragraphs */
+    line-height: 1.5;
+    color: aliceblue;
+  }
+  

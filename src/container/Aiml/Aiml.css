@@ -1,0 +1,20 @@
+
+  
+  .aiml-container h2 {
+    /* Additional styling for heading */
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  
+  .aiml-container h3 {
+    /* Additional styling for subheading */
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .aiml-container p {
+    /* Additional styling for paragraphs */
+    line-height: 1.5;
+  }
+  

@@ -1,0 +1,20 @@
+
+  
+  .webdev-container h2 {
+    /* Example: Additional styling for heading */
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  
+  .webdev-container h3 {
+    /* Example: Additional styling for subheading */
+    font-size: 20px;
+    margin-top: 20px;
+  }
+  
+  .webdev-container p {
+    /* Example: Additional styling for paragraphs */
+    line-height: 1.5;
+    color: aliceblue;
+  }
+  

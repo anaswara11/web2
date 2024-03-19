@@ -1,0 +1,28 @@
+
+  .blockchain-container h2 {
+    /* Example: Additional styling for heading */
+    font-size: 24px;
+    margin-bottom: 15px;
+  }
+  
+  .blockchain-container p {
+    /* Example: Additional styling for paragraphs */
+    line-height: 1.5;
+    color: aliceblue;
+  }
+  
+  .blockchain-container ol,
+  .blockchain-container ul {
+    /* Example: Additional styling for lists */
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+    color: aliceblue;
+  }
+  
+  .blockchain-container li {
+    /* Example: Additional styling for list items */
+    margin-bottom: 5px;
+    color: aliceblue;
+  }
+  
